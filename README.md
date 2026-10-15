@@ -19,8 +19,8 @@ I build secure, workflow-driven web applications for government and enterprise.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📂 Featured Projects
-- **[HIMBarbanki](https://github.com/Anchal24-dev/HIMBarbanki)** – college website
+
+
 
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/anchal-upadhyay-177739249) · anchal24f@gmail.com · [Portfolio](https://anchal24-dev.github.io)
