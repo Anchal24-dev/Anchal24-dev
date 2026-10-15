@@ -23,4 +23,4 @@ I build secure, workflow-driven web applications for government and enterprise.
 - **[HIMBarbanki](https://github.com/Anchal24-dev/HIMBarbanki)** – college website
 
 ## 📫 Connect
-[LinkedIn](https://linkedin.com/in/anchal-upadhyay-177739249) · anchal24f@gmail.com · [Portfolio](https://claude.ai/artifact/KUCzR57LCxZC5j6nQbBdiu)
+[LinkedIn](https://linkedin.com/in/anchal-upadhyay-177739249) · anchal24f@gmail.com · [Portfolio](https://anchal24-dev.github.io)
